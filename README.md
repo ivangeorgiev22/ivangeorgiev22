@@ -16,7 +16,7 @@
 ## 🛠 Tech Stack
 
 **🎨 Frontend**  
-React · TypeScript · Tailwind CSS · Vite  
+React · Angular · TypeScript · Tailwind CSS · Vite  
 
 **⚙️ Backend**  
 Node.js · Express · Koa  
